@@ -1,1 +1,10 @@
 # Alitcha-Tailwind
+
+
+Notre framework se veut être un ensemble de composant utilitaire et courant avec une diversité de style écrit à l'aide du framework tailwind css. Notre objectif est d'offrir une large palette de style réutilisable dans vos projets web et entièrement adaptable. Nous attaquons principalement la problématique de la disponibilité de style de composant extrêmement redondant ou inaccessible dans certains cas. Apportez des vues et des composants web, gratuit, varié et adaptable à n'importe quel framework frontend est notre objectif.
+
+Dans sa première version, Alitcha tailwind définit des composants classiques du web pour le framework ReactJS. L'objectif ici est d'entraîner la communauté à produire des composants vair, innovants, modernes qui pourront être utilisés dans les services web de Alitcha. Nous attaquerons essentiellement les boutons, les différents champs de saisie, les bar de navigation, les cartes en apportant des animations intéressantes et agréables.
+
+Le projet sera hébergé sur le GitHub de Alitcha et complètement supervisé par une commission chargée de juger les composants produits par la communauté. Un Trello sera également mis en place pour superviser l'évolution des tâches
+
+Le processus de création de ce framework est assez simple. Chaque semaine sera émise une requête Trello pour le développement d'un composant précis. Une branche dédiée à ce composant sera également créée et les membres désireux de développer ce composant devront tout simplement forker sur leur dépôt GitHub la branche concerne. Un délai de code de 3 à 4 jours sera accordé pour produire ce composant. Enfin, il sera jugé par une commission et les composants retenus seront soumis à d'éventuelles améliorations ou corrections. Enfin, il sera ajouté au projet React hébergeant l'ensemble de ces composants Bien évidemment ce processus encore précaire sera améliorer voir adapter aux contraintes existantes.
