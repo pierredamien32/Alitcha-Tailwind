@@ -1,13 +1,22 @@
 import "./index.css"
+import Bouton1 from "../src/components/buttons/Bouton1";
+import Bouton2 from "../src/components/buttons/Bouton2";
+import Bouton3 from "../src/components/buttons/Bouton3";
 
 function App() {
   return (
+    // <div className="w-screen h-screen flex items-center justify-center">
+    //   <div className="text-3xl text-orange-600">
+    //     Welcome on Alitcha Tailwind
+    //   </div>
+    // </div>
     <div className="w-screen h-screen flex items-center justify-center">
-      <div className="text-3xl text-orange-600">
-        Welcome on Alitcha Tailwind
-      </div>
+      <Bouton1/>
+      <Bouton2/>
+      <Bouton3/>
     </div>
   );
 }
 
 export default App;
+
