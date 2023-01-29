@@ -3,6 +3,7 @@ import Bouton1 from "../src/components/buttons/Bouton1";
 import Bouton2 from "../src/components/buttons/Bouton2";
 import Bouton3 from "../src/components/buttons/Bouton3";
 import Bouton4 from "../src/components/buttons/Bouton4";
+import Bouton5 from "../src/components/buttons/Bouton5";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Bouton2/>
       <Bouton3/>
       <Bouton4/>
+      <Bouton5/>
     </div>
   );
 }
